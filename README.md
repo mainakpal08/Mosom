@@ -12,7 +12,7 @@ A weather forecase app built in PyQt.<br/>
 <img src="1.png?raw=true">
 
 ### Toronto,Canada :
-<img src="2.png?raw=true" width="400">
+<img src="2.png?raw=true">
 
 
 ## Dependancies
