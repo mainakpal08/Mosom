@@ -22,17 +22,17 @@ A weather forecase app built in PyQt.<br/>
 
 ## How to run ?
 
-- Step 1 : Get an API key from [openweathermap](https://openweathermap.org/) to use with this
+- Step 1 : Get an API key from [Openweathermap](https://openweathermap.org/) to use with this
 application.
 
 - Step 2 : Edit ` weather.py `. For example we use gedit by -->
 `gedit weather.py`
 
-- Step 3 : Add the API key in place of `########################` in -->
+- Step 3 : Add the API key in place of `########################` in --> <br/>
 `OPENWEATHERMAP_API_KEY = '########################'`
 in line number 14.
 
--Step 4 : Run the program by -->
+- Step 4 : Run the program by --> <br/>
 `python3 weather.py`
 
 
