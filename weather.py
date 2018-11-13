@@ -11,7 +11,7 @@ import sys
 import requests
 from urllib.parse import urlencode
 
-OPENWEATHERMAP_API_KEY = '29bee4ae812a2897894255d470603480'
+OPENWEATHERMAP_API_KEY = '########################'
 
 """
 Get an API key from https://openweathermap.org/ to use with this
