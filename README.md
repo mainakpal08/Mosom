@@ -2,6 +2,7 @@
 [![Python](https://img.shields.io/badge/Language-Python-red.svg)](https://www.python.org/)
 [![lib](https://img.shields.io/badge/Library-PyQt-blue.svg)](https://www.python.org/)
 [![author](https://img.shields.io/badge/Author-Mainak-brightgreen.svg)](https://mpalrocks.github.io/)
+[![HitCount](http://hits.dwyl.io/mpalrocks/Julie.svg)](http://hits.dwyl.io/mpalrocks/Julie)
 
 
 A weather forecase app built in PyQt.<br/>
