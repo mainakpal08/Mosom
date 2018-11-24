@@ -1,4 +1,4 @@
-# :sunny: :umbrella: Julie :cloud: :snowflake: 
+# :sunny: :umbrella: Mosom :cloud: :snowflake: 
 [![Python](https://img.shields.io/badge/Language-Python-red.svg)](https://www.python.org/)
 [![lib](https://img.shields.io/badge/Library-PyQt-blue.svg)](https://www.python.org/)
 [![author](https://img.shields.io/badge/Author-Mainak-brightgreen.svg)](https://mpalrocks.github.io/)
